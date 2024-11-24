@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Net.Http;
 using static Keepi.Client.Pages.RegisterPage;
 
+
 namespace Keepi.Client.Repositories.Implementation
 {
     public class SearchUserRepository : Repository, ISearchUserRepository
