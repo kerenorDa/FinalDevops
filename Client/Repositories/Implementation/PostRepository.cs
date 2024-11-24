@@ -1,4 +1,5 @@
-﻿using Keepi.Client.Communication;
+﻿
+using Keepi.Client.Communication;
 using Keepi.Client.Repositories.Base;
 using Keepi.Client.Repositories.Interfaces;
 using Keepi.Shared;
